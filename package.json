@@ -1,0 +1,27 @@
+{
+  "name": "challenge-01",
+  "version": "1.0.0",
+  "description": "Rocketseat Bootcamp - Challenge 01",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node_modules/.bin/nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitorgiovane/rocketseat-bootcamp-challenge-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitorgiovane/rocketseat-bootcamp-challenge-01/issues"
+  },
+  "homepage": "https://github.com/vitorgiovane/rocketseat-bootcamp-challenge-01#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
